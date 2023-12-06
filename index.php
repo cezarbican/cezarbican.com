@@ -32,6 +32,7 @@
         </p>
 
         <a href="https://cezarbican.com/"><h3> 🌐 cezarbican.com </h3></a>
+        This is a test
         <?php echo "PHP in progres... uncheck" ?>
 
         <div class="container text-center">
