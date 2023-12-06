@@ -42,7 +42,7 @@ function handleRequest($request) {
             <script>
                 console.log("🌐 cezarbican.com ")    
             </script>
-            Test
+            <h3>Test</h3>
             <div class="container text-center">
                 <img src="./things/work.gif" class="img-fluid p-4" alt="Work In Progress">
             </div>
