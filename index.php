@@ -32,8 +32,8 @@
         </p>
 
         <a href="https://cezarbican.com/"><h3> 🌐 cezarbican.com </h3></a>
-        <?php echo "PHP in progres..." ?>
-        
+        <?php echo "PHP in progres... uncheck" ?>
+
         <div class="container text-center">
             <img src="./things/work.gif" class="img-fluid p-4" alt="Work In Progress">
         </div>
