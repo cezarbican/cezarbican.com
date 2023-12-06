@@ -3,7 +3,7 @@ addEventListener("fetch", event => {
 });
 
 function handleRequest(request) {
-  return new Response("PHP Worker hello world", {
+  return new Response("Test", {
     headers: {
       "content-type": "text/plain"
     }
