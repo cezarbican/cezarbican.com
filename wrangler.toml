@@ -1,0 +1,6 @@
+name = "cezarbican"
+type = "javascript"
+account_id = "25b48a8db35e41ebc0c8edf63da18178"
+workers_dev = true
+route = "cezarbican.com"
+zone_id = "f2fe217c2a9dfd53de67e3c6f4229a73"
